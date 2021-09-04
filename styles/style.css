@@ -67,7 +67,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin-top: 1.2rem;
+    margin-top: 1rem;
 }
 
 .grouped-email {
@@ -174,7 +174,7 @@ input {
 
 @media screen and (min-width: 48rem) {
     .logo {
-        margin-top: 2.7rem;
+        margin-top: 2.75rem;
     }
 
     .container h1 {
