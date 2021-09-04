@@ -150,7 +150,7 @@ input {
     align-items: center;
     justify-content: center;
     text-decoration: none;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     transition: all .4s ease-in-out;
 }
 
@@ -222,7 +222,7 @@ input {
     }
 
     .content-footer {
-        font-size: .7rem;
+        font-size: .8rem;
         margin: 1.5rem 0;
     }
 }
